@@ -1,7 +1,7 @@
 <%@include file="header.html"%>
 <!DOCTYPE html>
 <html>
-<title>DGI</title>
+<title>ITER</title>
 <body>
 <img src="logo.png"  align="left"width="100" height="100">
 <center><img src="dgi.png" width="100" height="100">
